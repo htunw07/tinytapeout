@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-My project works by connecting the first few ins and outs using not gates. Following that there are a few connections 
+My project works by connecting the first few ins and outs using not gates. Following that there are a few connections that go straight to the output. There is an And gate and any not gates. 
 
 ## How to test
 
-I test this by 
+Press the run button and flip switches to see what lights light up.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None.
